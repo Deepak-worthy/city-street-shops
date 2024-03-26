@@ -1,5 +1,7 @@
 # City Street Shops
 
+A full-featured e-commerce web application for people to buy stuff online from shops in the city
+
 **Link :** https://city-street-shops.onrender.com/
 
 <h2>Features</h2>
